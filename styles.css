@@ -1,12 +1,12 @@
 td{
 	border: 1px solid #ccc;
 	border-radius:5px;
-	padding:8px,
+	padding:8px;
 }
 th{
 	border: 1px solid #ccc;
 	border-radius:5px;
-	padding:8px,
+	padding:8px;
 }
 tr:nth-child(even) {
 	background-color: #ffffff;
